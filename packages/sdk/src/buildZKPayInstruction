@@ -1,0 +1,8 @@
+buildZKPayInstruction({
+  programId,
+  authority,
+  authorityConfig,
+  nullifier,
+  commitment,
+  newRoot,
+});
