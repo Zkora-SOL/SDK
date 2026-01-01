@@ -1,0 +1,7 @@
+buildZKIdentityInstruction({
+  programId,
+  authority,
+  authorityConfig,
+  user,
+  nullifier,
+});
