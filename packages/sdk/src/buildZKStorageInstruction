@@ -1,0 +1,9 @@
+buildZKStorageInstruction({
+  programId,
+  authority,
+  authorityConfig,
+  user,
+  fileRecord,
+  nullifier,
+  commitment,
+});
