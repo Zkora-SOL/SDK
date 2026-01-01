@@ -1,0 +1,9 @@
+Frontend / Backend
+   ↓
+SDK (encrypt + generate proof)
+   ↓
+Ed25519 attestation instruction
+   ↓
+ZKora program instruction
+   ↓
+Solana programs 
