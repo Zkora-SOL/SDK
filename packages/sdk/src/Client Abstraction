@@ -1,0 +1,1 @@
+new ZKoraClient(connection, programIds)
