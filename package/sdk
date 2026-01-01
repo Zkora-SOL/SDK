@@ -1,7 +1,0 @@
-sdk/
-├─ src/
-│  ├─ index.ts        → public exports
-│  ├─ client.ts       → ZKoraClient (program registry)
-│  ├─ crypto.ts       → encryption helpers
-│  ├─ proof.ts        → ZK proof interface & generator
-│  └─ tx.ts           → Solana tx helpers (Ed25519)
